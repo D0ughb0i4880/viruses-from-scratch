@@ -1,2 +1,2 @@
 # viruses-from-scratch
-All my viruses that I... Instead of copying off of people and afterwards modifying, I make from scratch myself and update them time-to-time via versions. ex: v1.1
+All my viruses that I... Instead of copying off of people and afterwards modifying, I make from scratch myself and update them time-to-time (rather than a current and previous versions for it, instead multiple versions over and over for anyone to pick. These viruses just update to every OS that comes out for popular OS's. The version for a certain OS is only so that, for the target's OS, is matching with which version of the virus you use on them. ((I'm only a teenager and not that great with writing so if you don't understand idk what else to put :)
